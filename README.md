@@ -1,5 +1,21 @@
-# notes
+## notes
 
-这是我平时学习过程中的笔记集合📒，之前一直放在**印🐘笔记**上。最近正值会员到期，也在考虑要好好整理一下之前的东西，然后迁移到 **github**(=🐙+🐱) ，刚好也可以在这个过程中好好回顾和梳理，同时也把自己的日常学习总结分享出去，独乐乐不如众乐乐😄
+这是我平时学习过程中的笔记，欢迎star。
+
+## 内容大纲
+
+基础：HTML、 CSS、 JavaScript
+技术栈：React、 Redux、 React Router、 
+构建工具：Webpack、 Gulp、 Travis CI
+web标准：CSS3、 ES 6
+JS模块规范：ES Module、 CommonJS
+代码规范：TypeScript、 
+测试：Jest、 
+移动端：HTML5、 
+网络协议：HTTP、 HTTPS、 WebSocket、 HTTP/2、 TCP/IP
+通信：跨域、 
+版本控制工具：Git
+性能优化：SSR、 PWA、 CRP
+其他：浏览器渲染原理、 CDN
 
 持续更新，欢迎拍砖。
