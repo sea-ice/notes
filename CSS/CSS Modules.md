@@ -1,0 +1,3 @@
+CSS Modules
+
+composes样式复用只能用于局部类，而不能用于声明为全局的样式类，而且局部类的内部样式块也无法使用composes。
